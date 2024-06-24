@@ -1,0 +1,5 @@
+Flask==2.1.3
+joblib
+numpy
+scikit-learn
+google-cloud-storage
